@@ -2,12 +2,16 @@
 const TEMPLATE_CONFIG = [
   {
     id: '0001',
-    title: '亲爱的, 早上好',
+    title: '姜大美女, 早上好',
     desc: `
       **{{date.DATA}}**
       
       下个休息日：{{holidaytts.DATA}}
+
+      今天也是元气满满的一天！要开心喔！！！
       
+      大哥语录（切记！！！）：与亲近之人不要说气话，不要说反话，不要不说话
+
       ---
       
       城市：{{city.DATA}}
@@ -20,8 +24,6 @@ const TEMPLATE_CONFIG = [
       
       风级: {{wind_scale.DATA}}
       
-      //{{comprehensive_horoscope.DATA}}
-      
       ---
       
       今天是我们相识的第{{love_day.DATA}}天
@@ -30,9 +32,10 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      {{moment_copyrighting.DATA}}
+      {{note_en.DATA}}
       
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
+      {{earthy_love_words.DATA }} 
+      {{moment_copyrighting.DATA}}
     `
   },
   {
