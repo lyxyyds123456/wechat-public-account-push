@@ -12,6 +12,7 @@ const TEMPLATE_CONFIG = [
       
       大哥语录（切记！！！）：与亲近之人不要说气话，不要说反话，不要不说话
 
+      让大哥康康你{{love_horoscope.DATA}}
       ---
       
       城市：{{city.DATA}}
@@ -35,6 +36,7 @@ const TEMPLATE_CONFIG = [
       {{note_en.DATA}}
       
       {{earthy_love_words.DATA }} 
+      
       {{moment_copyrighting.DATA}}
     `
   },
