@@ -9,10 +9,10 @@ const USER_CONFIG = {
   USE_PASSAGE: 'push-deer',
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx149a0c652eb26377',
+  APP_ID: '',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'dc858be882c1e532be5150e334e29761',
+  APP_SECRET: '',
 
   PROVINCE: '辽宁',
   CITY: '鞍山',
