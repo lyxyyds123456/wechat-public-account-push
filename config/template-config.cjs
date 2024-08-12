@@ -23,7 +23,7 @@ const TEMPLATE_CONFIG = [
       
       风级: {{wind_scale.DATA}}
 
-       让大哥康康你{{love_horoscope.DATA}}
+      让大哥康康你{{love_horoscope.DATA}}
       ---
       
       今天是我们相识的第{{love_day.DATA}}天
