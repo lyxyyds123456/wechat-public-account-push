@@ -11,8 +11,6 @@ const TEMPLATE_CONFIG = [
       今天也是元气满满的一天！要开心喔！！！
       
       大哥语录（切记！！！）：与亲近之人不要说气话，不要说反话，不要不说话
-
-      让大哥康康你{{love_horoscope.DATA}}
       ---
       
       城市：{{city.DATA}}
@@ -24,7 +22,8 @@ const TEMPLATE_CONFIG = [
       风向: {{wind_direction.DATA}}
       
       风级: {{wind_scale.DATA}}
-      
+
+       让大哥康康你{{love_horoscope.DATA}}
       ---
       
       今天是我们相识的第{{love_day.DATA}}天
@@ -34,8 +33,6 @@ const TEMPLATE_CONFIG = [
       ---
       
       {{note_en.DATA}}
-      
-      {{earthy_love_words.DATA }} 
       
       {{moment_copyrighting.DATA}}
     `
